@@ -1,0 +1,28 @@
+Contribution Log
+Week 1 – Project Planning & Setup
+Set up the Flutter development environment and project structure.
+Explored the Excelerate app concept and identified key user needs.
+Created wireframes and initial application layouts.
+Planned the user journey and navigation flow.
+Week 2 – User Interface Development
+Developed the core application screens, including the Login Screen, Home Dashboard, Program Listing Screen, Program Details Screen, and Feedback Form.
+Implemented responsive layouts using Flutter widgets.
+Applied Excelerate-inspired branding and visual styling.
+Established screen navigation and user flow.
+Week 3 – Functionality & Data Integration
+Integrated dynamic program data using a structured JSON data source.
+Created a Program Model and Program Service to support data management.
+Implemented state management using Flutter's built-in setState() method.
+Added loading indicators, skeleton loading screens, and error-handling mechanisms.
+Developed form validation and submission workflows for the feedback system.
+Improved user interaction through success messages and retry functionality.
+Week 4 – Testing, Documentation & Finalization
+Refined the user interface for consistency and usability.
+Tested navigation, validation, loading states, and dynamic data functionality.
+Updated the GitHub repository with project documentation, screenshots, setup instructions, and changelog information.
+Improved application branding and user experience across all screens.
+Prepared the final presentation, reflection, and project showcase materials.
+Finalized the Excelerate Learning Hub as a complete, portfolio-ready Flutter application.
+Personal Contribution Summary
+
+Throughout this internship, I contributed to the planning, design, development, testing, and documentation of the Excelerate Learning Hub application. My responsibilities included building user interfaces, integrating dynamic JSON data, implementing state management, creating forms and validation workflows, debugging application issues, testing functionality, and maintaining project documentation. This experience helped strengthen my Flutter development skills and provided practical experience in building a complete mobile application from concept to completion.
